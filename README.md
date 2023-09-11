@@ -1,4 +1,4 @@
-# Oibsip_task_5
+# Oibsip_Task_5
 Task 5 - Sales prediction using Python 
 
 Sales prediction means predicting how much of a product people will buy based on factors such as the amount spent on advertisement of a product, the target audience for the product etc.
